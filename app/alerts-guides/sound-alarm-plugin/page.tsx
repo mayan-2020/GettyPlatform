@@ -30,7 +30,7 @@ export default function SoundAlarmPluginPage() {
           </div>
           <h1 className="text-4xl font-bold text-slate-800 mb-4">Sound Alarm Plugin</h1>
           <p className="text-lg text-slate-600">
-            This guide explains how to enable the sound alarm plugin on GpsGate Server. The plugin will play an alert
+            This guide explains how to enable the sound alarm plugin on Getty Secure Server. The plugin will play an alert
             sound on each incoming alarm, therefore the sound will be repeated until all the alarms are closed.
           </p>
         </div>

@@ -18,10 +18,10 @@ export default function AlertsGuides() {
       title: "Event Rule: Catch speeding assets",
       href: "/alerts-guides/catch-speeding-assets",
     },
-    {
-      title: "Event rule use case: send alerts when an SOS event occurs",
-      href: "/alerts-guides/sms-sos-events",
-    },
+    // {
+    //   title: "Event rule use case: send alerts when an SOS event occurs",
+    //   href: "/alerts-guides/sms-sos-events",
+    // },
     {
       title: "Event rule use case: display icon and text notifiers",
       href: "/alerts-guides/icon-text-notifiers",
@@ -35,10 +35,10 @@ export default function AlertsGuides() {
       href: "/alerts-guides/clone-event-rules",
     },
     
-    {
-      title: "Export-import Event Rules",
-      href: "/alerts-guides/export-import-event-rules",
-    },
+    // {
+    //   title: "Export-import Event Rules",
+    //   href: "/alerts-guides/export-import-event-rules",
+    // },
     {
       title: "One-shot events",
       href: "/alerts-guides/one-shot-events",

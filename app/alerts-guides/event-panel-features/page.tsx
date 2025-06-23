@@ -42,7 +42,7 @@ export default function EventPanelFeatures() {
             </ul>
             <div className="grid grid-cols-1 gap-6 mt-6">
               <img src="/images/event-panel-card-view.png" alt="Card View" className="rounded-lg shadow" />
-              <img src="/images/event-panel-list-view.png" alt="List View" className="rounded-lg shadow" />
+              <img  src="/images/event-panel-list-view.png" alt="List View" className="rounded-lg shadow" />
             </div>
           </div>
 

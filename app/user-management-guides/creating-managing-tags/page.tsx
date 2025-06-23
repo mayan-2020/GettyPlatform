@@ -39,7 +39,7 @@ export default function CreatingManagingTags() {
           {/* Content */}
           <div className="prose prose-slate max-w-none space-y-6">
             <h2>Tags</h2>
-            <p>Tags are a basic component of GpsGate. With tags, you can organize your fleet in a very convenient way.</p>
+            <p>Tags are a basic component of Getty Secure. With tags, you can organize your fleet in a very convenient way.</p>
 
             <p>
               You can use as many tags as you consider necessary. For example, you can create a tag called Trucks where

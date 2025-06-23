@@ -54,7 +54,7 @@ export default function ManageUsers() {
 
             <h2>1. Invite User</h2>
             <p>
-              The Invite Users feature lets you quickly invite team members to your GpsGate platform. You can assign them
+              The Invite Users feature lets you quickly invite team members to your Getty Secure platform. You can assign them
               roles such as Administrator or Operator, and they'll gain access immediately upon accepting the invite.
             </p>
 

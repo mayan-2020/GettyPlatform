@@ -31,7 +31,7 @@ export default function ChangePassword() {
             </div>
             <h1 className="text-4xl font-bold text-slate-800 mb-4">How to Change Password from Application?</h1>
             <p className="text-lg text-slate-600">
-              This article describes how a logged-in user can reset their password in the GpsGate web application. There
+              This article describes how a logged-in user can reset their password in the Getty Secure web application. There
               are 2 ways in which the user can change their password. Let's have a look.
             </p>
           </div>
